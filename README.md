@@ -10,6 +10,7 @@
 - [Node.js v15.x docs](https://nodejs.org/dist/latest-v15.x/docs/api/)
 - [Node.js v14.x docs](https://nodejs.org/dist/latest-v14.x/docs/api/)
 - [jsfiddle](https://jsfiddle.net/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ### Node.js frameworks
 - [Express](https://expressjs.com/) Fast, unopinionated, minimalist web framework
@@ -18,3 +19,4 @@
 ### Front-end javascript frameworks
 - [React](https://reactjs.org/)
 - [Material-UI](https://material-ui.com/)
+- [Preact](https://preactjs.com/)
